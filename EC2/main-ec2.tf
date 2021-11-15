@@ -15,12 +15,13 @@ provider "aws" {
 }
 
 
-resource "aws_instance" "app_server" {
-  ami           = "ami-830c94e3"
+resource "aws_instance" "arun_app_server" {
+  ami           = "ami-0ba0f49e823b50d7f"
   instance_type = "t2.micro"
 
   tags = {
-    Name = "ExampleAppServerInstance"
+    Name = "Arun Sample AppServer Instance"
   }
 }
+
 
