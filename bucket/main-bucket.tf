@@ -19,6 +19,7 @@ resource "aws_s3_bucket" "arun-terraform-test-bucket" {
   acl    = "private"
 
   tags = {
-    Name        = "Arun first bucket"
+    Name        = "Arun first bucket final"
       }
 }
+
