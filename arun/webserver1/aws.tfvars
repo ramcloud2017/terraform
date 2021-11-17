@@ -1,8 +1,0 @@
-region =  "us-east-1"
-instance_type = "t2.micro"
-#instance_key = "gs-ubuntu-key"
-instance_key = "aws_ec2_pem_file_name"
-vpc_cidr = "178.0.0.0/16"
-public_subnet_cidr = "178.0.10.0/24"
-creds_path = "~/.aws/"
-creds_file = "credentials"
