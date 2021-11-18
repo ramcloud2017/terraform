@@ -1,0 +1,10 @@
+Terraform Notes
+
+Git Hub - Link
+ssh - git@github.com:kujjuarun/terraform.git
+https - https://github.com/kujjuarun/terraform.git
+github cli - gh repo clone kujjuarun/terraform
+
+
+AWS
+S3 Bucket related - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket
