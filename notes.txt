@@ -5,6 +5,19 @@ ssh - git@github.com:kujjuarun/terraform.git
 https - https://github.com/kujjuarun/terraform.git
 github cli - gh repo clone kujjuarun/terraform
 
+git commands
+git branch
+git init
+git clone <path> -b <branch 
+git pull origin <branch name>
+git status
+git add .
+git checkout <branch name>
+git commit -m 'message'
+git push -u origin <branch name>
+
+
+
 
 AWS
 S3 Bucket related - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/s3_bucket
